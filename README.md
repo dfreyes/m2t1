@@ -29,7 +29,7 @@ Se requiere identificar la o las mejores ventanas operativa para ejecutar el vue
 
 ---
 
-##Umbrales de seguridad del drone DJI Mini 3
+## Umbrales de seguridad del drone DJI Mini 3
 ---
 
 | Variable Meteorológica | Umbral Operativo Máximo | Impacto en el Vuelo |
@@ -41,7 +41,7 @@ Se requiere identificar la o las mejores ventanas operativa para ejecutar el vue
 
 ---
 
-# Desarrollo del Análisis
+## Desarrollo del Análisis
 
 ---
 
